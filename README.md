@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuruB17
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel
+  
 
 
 <!---
